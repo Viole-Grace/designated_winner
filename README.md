@@ -25,5 +25,5 @@ used here is a simple Neural Network for Sentiment Analysis.
 - download/clone the repository
 - run both the neural networks
 
-# Built and maintained with *Python 2.7*
+### Built and maintained with *Python 2.7*
 # Author - Aamir Syed
